@@ -1,0 +1,20 @@
+
+.brand_title_wrap {
+    text-align: center;
+}
+.brand_title{
+    margin: 60px 0 20px;
+font-size: 18px;
+}
+.logobox{
+    width: 100px;
+    margin: 0 auto 12px;
+    
+}
+.logobox img{
+    display: block;
+    width: 100%;
+}
+.spacing{
+    height: 100px;
+}
