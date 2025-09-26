@@ -2775,4 +2775,29 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding-bottom: 20px;
 }
 
+/* guide icon */
+.guideicon_01,.guideicon_02,.guideicon_03{
+  display: flex;
+  margin-bottom: 40px;
+}
+.guideicon_01 li,.guideicon_02 li,.guideicon_03 li{
+  width: 30px;
+  height: 30px;
+  border-radius: 5px;
+  margin-right: 5px;
+}
+.guideicon_01 li img,.guideicon_02 li img,.guideicon_03 li img{
+  display: block;
+  width: 100%;
 
+}
+.guideicon_01 li{
+  background-color: #9059FC;
+}
+.guideicon_02 li{
+  background-color: #8EC42F;
+}
+.guideicon_03 li{
+  background-color: #212121;
+}
+  
